@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Luis",
+      "lastName": "Gonzalez",
+      "email": "luis@gmail.com",
+      "info": "Estudiante de Ingenieria en Sistemas"
+    },
+    {
+      "id": 2,
+      "firstName": "Juan",
+      "lastName": "Perez",
+      "email": "juan@gmail.com",
+      "info": "Estudiante de Ingenieria de Software"
+    },
+    {
+      "id": 3,
+      "firstName": "Maria",
+      "lastName": "Lopez",
+      "email": "maria@gmail.com",
+      "info": "Estudiante de marketing"
+    },
+    {
+      "firstName": "pedro",
+      "lastName": "ramirez",
+      "email": "chaves@gmail.com",
+      "info": "esto es un prueba de mi post",
+      "id": 5
+    },
+    {
+      "firstName": "cambiaso de nombre",
+      "lastName": "gomez",
+      "email": "bolaño@upc.edu.pe",
+      "info": "chavo del 8 tv",
+      "id": 6
+    },
+    {
+      "firstName": "Franciaszc",
+      "lastName": "serrano",
+      "email": "chaves@gmail.com",
+      "info": "es un pavo ",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Muerte a america",
+      "content": "Es hora de una guerra civil en america",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Paz en el mundo",
+      "content": "Es deber de todos los paises mantener la paz en el mundo",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Desarrolo de software",
+      "content": "Busco ayuda para desarrollar un software de gestion de ventas",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Desarrolo de software",
+      "content": "Se busca programador para desarrollar un software de gestion de ventas",
+      "userId": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Estoy de acuerdo",
+      "userId": 2,
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "content": "Estoy en contra",
+      "userId": 3,
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "content": "Estoy aburrido pero acepto",
+      "userId": 1,
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "content": "Creen que me van a convenser con eso?",
+      "userId": 3,
+      "postId": 2
+    },
+    {
+      "id": 5,
+      "content": "Yo creo que no le interesa a nadie",
+      "userId": 1,
+      "postId": 3
+    },
+    {
+      "id": 6,
+      "content": "Estoy en desacuerdo",
+      "userId": 2,
+      "postId": 3
+    },
+    {
+      "id": 7,
+      "content": "Estoy en contra de la idea",
+      "userId": 1,
+      "postId": 4
+    },
+    {
+      "id": 8,
+      "content": "Estoy a favor del proyecto",
+      "userId": 2,
+      "postId": 4
+    }
+  ]
+}

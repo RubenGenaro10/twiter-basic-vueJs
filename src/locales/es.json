@@ -1,0 +1,10 @@
+{
+  "navegation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "form": "Formulario",
+    "details-list": "Lista de detalles",
+    "profile": "Perfil"
+  },
+  "text-hero": "Bienvenido a la página de inicio, este es asilo"
+}

@@ -1,0 +1,10 @@
+{
+  "navegation": {
+    "home": "Home",
+    "about": "About",
+    "form": "Form",
+    "details-list": "details list",
+    "profile": "Profile"
+  },
+  "text-hero": "Welcome to the home page, this is asylum"
+}
